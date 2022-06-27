@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tech1-junior-test-master.iml" filepath="$PROJECT_DIR$/.idea/Tech1-junior-test-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tech1-junior-test-master/test-task.iml" filepath="$PROJECT_DIR$/Tech1-junior-test-master/test-task.iml" />
+    </modules>
+  </component>
+</project>
